@@ -3,6 +3,7 @@ Finduspack changes small things that fit well into Minecraft Vanilla but also to
 
 ### Download:
 [Latest (1.15)](https://github.com/artlinedev/finduspack/raw/master/finduspack.zip)
+
 *NOTE: Optifine is required for the sky changes.*
 
 ### Changes Include:
