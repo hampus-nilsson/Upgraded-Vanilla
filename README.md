@@ -1,4 +1,4 @@
-# Finduspack - A better Minecraft experience
+# Finduspack - A Minecraft Resource Pack
 Finduspack changes small things that fit well into Minecraft Vanilla but also to improve the aesthetics. See the list below for all changes.
 
 ### Download:
@@ -27,6 +27,7 @@ Finduspack changes small things that fit well into Minecraft Vanilla but also to
 * Tweak color of Grass & Leaves.
 * Add Elytra designs.
 * Add Screenshots to this page.
+* Whiter Endrods.
 
 ### Credit:
 * [Vanilla Tweaks](https://vanillatweaks.net/) 
