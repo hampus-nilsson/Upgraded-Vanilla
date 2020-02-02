@@ -28,6 +28,7 @@ Finduspack changes small things that fit well into Minecraft Vanilla but also to
 * Add Elytra designs.
 * Add Screenshots to this page.
 * Whiter Endrods.
+* Change pack.png image.
 
 ### Credit:
 * [Vanilla Tweaks](https://vanillatweaks.net/) 
