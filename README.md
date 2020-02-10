@@ -29,6 +29,7 @@ Finduspack changes small things that fit well into Minecraft Vanilla but also to
 * Add Screenshots to this page.
 * Whiter Endrods.
 * Change pack.png image.
+* Enchanted books individual textures.
 
 ### Credit:
 * [Vanilla Tweaks](https://vanillatweaks.net/) 
