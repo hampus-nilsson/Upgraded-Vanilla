@@ -2,35 +2,18 @@
 Finduspack changes small things that fit well into Minecraft Vanilla but also to improve the aesthetics. See the list below for all changes.
 
 ### Download:
-[Latest (1.15)](https://github.com/artlinedev/finduspack/raw/master/finduspack.zip)
+[Latest (1.15)](https://github.com/artlinedev/Upgraded-Vanilla/raw/master/Upgraded%20Vanilla.zip)
 
-*NOTE: Optifine is required for the sky changes.*
+*NOTE: Optifine is required for some features.*
 
-### Changes Include:
-* Greener Grass & Leaves.
-* Changed Rain, Snow, Sun, Moon, Clouds & Sky for better aesthetics.
-* Lower Firstperson Fire & Shield.
-* Changed Hoppers, Sticky Pistons, Observers & Redstone dust for easier visibility.
-* Changed Iron Golem texture.
-* Removed Pumkin blur.
-* Removed Vignette.
-* Changed Pumkin & Melon stems.
-* Whiter Snow.
-* Changed Options Background.
-* Changed tab-list Icons.
-* Changed GUI Wither hearts.
-* Added age 25 kelp.
-* Lower Enderman, Minecard & Nether portal sound.
-* Changed particles.
+### Features Include:
+* Coming soon.
 
 ### To-do:
 * Tweak color of Grass & Leaves.
 * Add Elytra designs.
 * Add Screenshots to this page.
-* Whiter Endrods.
-* Change pack.png image.
-* Enchanted books individual textures.
-* Change to better map icons.
+* Add features list on github.
 
 ### Credit:
 * [Vanilla Tweaks](https://vanillatweaks.net/) 
