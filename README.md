@@ -7,13 +7,34 @@ Finduspack changes small things that fit well into Minecraft Vanilla but also to
 *NOTE: Optifine is required for some features.*
 
 ### Features Include:
-* Coming soon.
+* Age 25 kelp.
+* Directional Hoppers
+* Sticky piston side.
+* Clean redstone dust.
+* Different Melon/Pumpkin stems.
+* Lower Shield.
+* New Mending/Curse book textures.
+* Lower Minecart, Nether portal & Enderman sounds.
+* Whiter End rods.
+* Lower Fire.
+* Directional Observers.
+* Whiter snow.
+* Greener grass/foliage.
+* Red flowers on Iron Golem.
+* Better Clouds, Sun, Moon, Rain & Snow.
+* Options background.
+* Better GUI icons.
+* New Diamond texture.
+* New banner pattern textures.
+* Better map icons.
+* Removed pumkin blur.
+* Removed vignette.
+* New particles.
 
 ### To-do:
 * Tweak color of Grass & Leaves.
 * Add Elytra designs.
 * Add Screenshots to this page.
-* Add features list on github.
 
 ### Credit:
-* [Vanilla Tweaks](https://vanillatweaks.net/) 
+* [Vanilla Tweaks](https://vanillatweaks.net/)
