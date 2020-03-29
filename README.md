@@ -1,5 +1,5 @@
-# Finduspack - A Minecraft Resource Pack
-Finduspack changes small things that fit well into Minecraft Vanilla but also to improve the aesthetics. See the list below for all changes.
+# Upgraded Vanilla - A Minecraft Resource Pack
+Upgraded Vanilla changes small things that fit well into Minecraft Vanilla but also to improve the aesthetics. See the list below for all changes.
 
 ### Download:
 [Latest (1.15)](https://github.com/artlinedev/Upgraded-Vanilla/raw/master/Upgraded%20Vanilla.zip)
